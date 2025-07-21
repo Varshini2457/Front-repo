@@ -1,0 +1,4 @@
+animals
+flowers
+fruits
+hostel
